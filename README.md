@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tssundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="tssundarraj" /> </p>
 
-- 🔭 I’m currently working on [Netweb Technologies](https://netwebindia.com/)
+- 🔭 I’m currently working at [Netweb Technologies](https://netwebindia.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tssundarraj](https://github.com/tssundarraj)
 

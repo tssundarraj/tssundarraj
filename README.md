@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T S SUNDAR RAJ</h1>
 <h3 align="center">Accelerating Delivery with Smart Automation and Cloud Solutions</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif"
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tssundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="tssundarraj" /> </p>

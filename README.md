@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T S SUNDAR RAJ</h1>
 <h3 align="center">Accelerating Delivery with Smart Automation and Cloud Solutions</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hopr.co%2Flp%2Fdevops-friendly-security-automation&psig=AOvVaw2Uw_1gJntbsWbVS7xWHDwc&ust=1741773051632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCfu7vggYwDFQAAAAAdAAAAABAE)"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tssundarraj&label=Profile%20views&color=0e75b6&style=flat" alt="tssundarraj" /> </p>
